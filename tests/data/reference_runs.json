@@ -1,0 +1,94 @@
+{
+ "BM25": [
+  "bm25_floor.jsonl.gz"
+ ],
+ "ZS_B0:qwen0.5b": [
+  "zeroshot_qwen0.5b_B0.jsonl.gz"
+ ],
+ "ZS_B1:qwen0.5b": [
+  "zeroshot_qwen0.5b_B1.jsonl.gz"
+ ],
+ "FT_B1:qwen0.5b": [
+  "qwen0.5b_B1_s0.jsonl.gz"
+ ],
+ "FT_G:qwen0.5b": [
+  "qwen0.5b_G_s0.jsonl.gz"
+ ],
+ "ZS_B0:qwen1.5b": [
+  "zeroshot_qwen1.5b_B0.jsonl.gz"
+ ],
+ "ZS_B1:qwen1.5b": [
+  "zeroshot_qwen1.5b_B1.jsonl.gz"
+ ],
+ "FT_B1:qwen1.5b": [
+  "qwen1.5b_B1_s0.jsonl.gz",
+  "qwen1.5b_B1_s1.jsonl.gz",
+  "qwen1.5b_B1_s2.jsonl.gz"
+ ],
+ "FT_G:qwen1.5b": [
+  "qwen1.5b_G_s0.jsonl.gz",
+  "qwen1.5b_G_s1.jsonl.gz",
+  "qwen1.5b_G_s2.jsonl.gz"
+ ],
+ "ZS_B0:qwen3b": [
+  "zeroshot_qwen3b_B0.jsonl.gz"
+ ],
+ "ZS_B1:qwen3b": [
+  "zeroshot_qwen3b_B1.jsonl.gz"
+ ],
+ "FT_B1:qwen3b": [
+  "qwen3b_B1_s0.jsonl.gz"
+ ],
+ "FT_G:qwen3b": [
+  "qwen3b_G_s0.jsonl.gz"
+ ],
+ "ZS_B0:llama1b": [
+  "zeroshot_llama1b_B0.jsonl.gz"
+ ],
+ "ZS_B1:llama1b": [
+  "zeroshot_llama1b_B1.jsonl.gz"
+ ],
+ "FT_B1:llama1b": [
+  "llama1b_B1_s0.jsonl.gz"
+ ],
+ "FT_G:llama1b": [
+  "llama1b_G_s0.jsonl.gz"
+ ],
+ "ZS_B0:llama3b": [
+  "zeroshot_llama3b_B0.jsonl.gz"
+ ],
+ "ZS_B1:llama3b": [
+  "zeroshot_llama3b_B1.jsonl.gz"
+ ],
+ "FT_B1:llama3b": [
+  "llama3b_B1_s0.jsonl.gz"
+ ],
+ "FT_G:llama3b": [
+  "llama3b_G_s0.jsonl.gz"
+ ],
+ "ZS_B0:gemma1b": [
+  "zeroshot_gemma1b_B0.jsonl.gz"
+ ],
+ "ZS_B1:gemma1b": [
+  "zeroshot_gemma1b_B1.jsonl.gz"
+ ],
+ "FT_B1:gemma1b": [
+  "gemma1b_B1_s0.jsonl.gz"
+ ],
+ "FT_G:gemma1b": [
+  "gemma1b_G_s0.jsonl.gz"
+ ],
+ "FT_B0:qwen1.5b": [
+  "qwen1.5b_B0_s0.jsonl.gz"
+ ],
+ "FT_B2:qwen1.5b": [
+  "qwen1.5b_B2_s0.jsonl.gz"
+ ],
+ "FT_B1P:qwen1.5b": [
+  "qwen1.5b_B1P_s0.jsonl.gz",
+  "qwen1.5b_B1P_s1.jsonl.gz"
+ ],
+ "FT_G0:qwen1.5b": [
+  "qwen1.5b_G0_s0.jsonl.gz"
+ ]
+}
